@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo1">
+
+    <!-- Spinner para seleccionar el mes -->
+
+    <!-- Vista de gráfico de barras personalizado -->
+
+    <RatingBar
+        android:id="@+id/ratingBar4"
+        style="@android:style/Widget.Holo.Light.RatingBar.Indicator"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="19dp"
+        android:layout_marginTop="296dp"
+        android:layout_marginEnd="207dp"
+        android:numStars="5"
+        android:autofillHints="3"
+        android:progressTint="#FF5722"
+        android:rating="5"
+        android:stepSize="1.0" />
+
+    <Button
+        android:id="@+id/buttonBack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="256dp"
+        android:layout_marginEnd="49dp"
+        android:layout_marginBottom="83dp"
+        android:backgroundTint="@color/green"
+        android:text="Atrás" />
+
+    <TextView
+        android:id="@+id/textViewTitle3"
+        android:layout_width="351dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="178dp"
+        android:layout_marginEnd="44dp"
+        android:text="Metricas             2024"
+        android:textColor="@color/green"
+        android:textSize="45sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView16"
+        android:layout_width="wrap_content"
+        android:layout_height="237dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="196dp"
+        android:layout_marginEnd="2dp"
+        android:layout_marginBottom="541dp"
+        app:srcCompat="@drawable/paseador" />
+
+    <ImageView
+        android:id="@+id/imageView17"
+        android:layout_width="103dp"
+        android:layout_height="127dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="22dp"
+        android:layout_marginTop="60dp"
+        android:layout_marginEnd="268dp"
+        android:layout_marginBottom="46dp"
+        app:srcCompat="@drawable/logowalkee" />
+
+    <Spinner
+        android:id="@+id/spinnerMonths"
+        android:layout_width="187dp"
+        android:layout_height="40dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="23dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="182dp"
+        android:layout_marginBottom="127dp" />
+
+    <com.example.walkee.BarGraph
+        android:id="@+id/barGraph"
+        android:layout_width="312dp"
+        android:layout_height="321dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="34dp"
+        android:layout_marginTop="330dp"
+        android:layout_marginEnd="47dp"
+        android:layout_marginBottom="178dp" />
+
+</RelativeLayout>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo2">
+
+    <!-- Mapa de geolocalización -->
+
+    <!-- Lista de paseadores disponibles -->
+
+    <!-- Botones de navegación -->
+
+    <TextView
+        android:id="@+id/textViewTitle2"
+        android:layout_width="153dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="87dp"
+        android:layout_marginEnd="233dp"
+        android:text="Paseos"
+        android:textColor="@color/green"
+        android:textSize="38dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textViewTitle4"
+        android:layout_width="388dp"
+        android:layout_height="53dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="22dp"
+        android:layout_marginTop="411dp"
+        android:layout_marginEnd="0dp"
+        android:text="Lista de Paseadores Cercanos"
+        android:textColor="@color/green"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="51dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/buttonBack"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:backgroundTint="@color/green"
+            android:text="Atrás" />
+
+        <Button
+            android:id="@+id/buttonNext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:backgroundTint="@color/green"
+            android:enabled="false"
+            android:text="Siguiente" />
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="339dp"
+        android:layout_height="171dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="13dp"
+        android:layout_marginEnd="59dp"
+        android:layout_marginBottom="106dp"
+        app:srcCompat="@drawable/listapaseadores" />
+
+    <ImageView
+        android:id="@+id/imageView10"
+        android:layout_width="389dp"
+        android:layout_height="214dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="17dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginBottom="263dp"
+        app:srcCompat="@drawable/geolocalizacion1" />
+
+    <Switch
+        android:id="@+id/switch1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="25dp"
+        android:layout_marginBottom="125dp"
+        android:text="" />
+
+    <Switch
+        android:id="@+id/switch3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="26dp"
+        android:layout_marginBottom="218dp"
+        android:text="" />
+
+    <Switch
+        android:id="@+id/switch2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="25dp"
+        android:layout_marginBottom="171dp"
+        android:text="" />
+
+    <ImageView
+        android:id="@+id/imageView11"
+        android:layout_width="154dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="237dp"
+        android:layout_marginTop="74dp"
+        android:layout_marginEnd="22dp"
+        android:layout_marginBottom="478dp"
+        app:srcCompat="@drawable/perro1" />
+
+</RelativeLayout>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/style"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo1"
+    android:visibility="visible"
+    tools:visibility="visible">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="67dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/buttonBack"
+            android:layout_width="122dp"
+            android:layout_height="match_parent"
+            android:layout_marginEnd="8dp"
+            android:backgroundTint="@color/green"
+            android:text="Atrás" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textViewTitle"
+        android:layout_width="228dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="13dp"
+        android:layout_marginTop="333dp"
+        android:layout_marginEnd="169dp"
+        android:text="Seguridad y Prevencón"
+        android:textColor="@color/green"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textViewTitle5"
+        android:layout_width="374dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="245dp"
+        android:layout_marginEnd="27dp"
+        android:text="Tutoriales"
+        android:textColor="@color/green"
+        android:textSize="45sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="110dp"
+        android:layout_height="123dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="33dp"
+        android:layout_marginTop="64dp"
+        android:layout_marginEnd="268dp"
+        android:layout_marginBottom="46dp"
+        app:srcCompat="@drawable/logowalkee" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="126dp"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="668dp"
+        android:layout_marginEnd="21dp"
+        android:layout_marginBottom="13dp"
+        app:srcCompat="@drawable/sloganwalkee" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="142dp"
+        android:layout_height="150dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="251dp"
+        android:layout_marginEnd="18dp"
+        android:layout_marginBottom="546dp"
+        app:srcCompat="@drawable/paseador" />
+
+    <RatingBar
+        android:id="@+id/ratingBar"
+        style="@style/Widget.AppCompat.RatingBar.Indicator"
+        android:layout_width="196dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="26dp"
+        android:layout_marginTop="201dp"
+        android:layout_marginEnd="189dp"
+        android:layout_marginBottom="486dp"
+        android:numStars="5"
+        android:progressTint="#FF5722"
+        android:rating="5"
+        android:stepSize="1.0" />
+
+    <ImageView
+        android:id="@+id/imageView26"
+        android:layout_width="296dp"
+        android:layout_height="197dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="55dp"
+        android:layout_marginTop="376dp"
+        android:layout_marginEnd="60dp"
+        android:layout_marginBottom="157dp"
+        app:srcCompat="@drawable/dogwalker" />
+
+    <ImageView
+        android:id="@+id/imageView27"
+        android:layout_width="304dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="53dp"
+        android:layout_marginTop="551dp"
+        android:layout_marginEnd="54dp"
+        android:layout_marginBottom="134dp"
+        app:srcCompat="@drawable/barravideo" />
+
+</RelativeLayout>

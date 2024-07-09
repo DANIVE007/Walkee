@@ -1,0 +1,455 @@
+﻿1. Relación contractual
+Las presentes condiciones de uso ("Condiciones") regulan el acceso y/o uso que Usted 
+haga, en el territorio donde se encuentre, de aplicaciones, páginas web, contenido, 
+productos y servicios ("Servicios") puestos a disposición por Walkee Technologies B.V., 
+una sociedad de responsabilidad limitada constituida en los Países Bajos, con domicilio 
+social en Burgerweeshuispad 301, 1076 HR, Ámsterdam, Países Bajos, inscrita en la 
+Cámara de Comercio de Ámsterdam con el número 56317441, o cualquiera de sus 
+subsidiarias y/o afiliadas ("Walkee Technologies").
+Mediante la aceptación de las presentes Condiciones, Usted acuerda vincularse 
+jurídicamente por éstas y reconoce que las mismas establecen una relación contractual 
+entre Usted y Walkee Technologies. Al aceptar estas Condiciones, Usted también acepta 
+las
+Si Usted no acepta estas Condiciones, no podrá acceder y/o usar los Servicios.
+Walkee Technologies podrá poner fin de inmediato a estas Condiciones o dejar de ofrecer 
+o denegar el acceso a los Servicios en su totalidad o a cualquier parte de ellos, en 
+cualquier momento y por cualquier motivo, lo cual le será informado previamente, siempre 
+y cuando no se afecten derechos válidamente adquiridos por Usted.
+Se podrán aplicar condiciones suplementarias a las presentes Condiciones en relación 
+con actividades o beneficios promocionales diversos sobre los Servicios ("Condiciones 
+Suplementarias"). Estas Condiciones Suplementarias le serán comunicadas y notificadas 
+previamente para su aceptación, manteniendo Usted en todo momento el derecho de 
+negarse a participar en las mismas. Las Condiciones Suplementarias son 
+complementarias a las Condiciones y prevalecerán sobre éstas, en caso de conflicto.
+Mediante notificación previa a través de la Aplicación y/o por correo electrónico, Walkee 
+Technologies podrá modificar las Condiciones y las Condiciones Suplementarias 
+aplicables a los
+Servicios cuando lo considere oportuno y a su exclusivo criterio. Las modificaciones serán 
+efectivas después de su publicación. En la medida que no sea contrario con la legislación 
+aplicable, su acceso y/o uso continuado de los Servicios después de dicha publicación o 
+comunicación en el caso de modificaciones, constituye su consentimiento a vincularse por 
+las Condiciones y/o Condiciones Suplementarias modificadas.
+2. Los Servicios
+Los Servicios consisten en poner a disposición de los usuarios una plataforma de 
+tecnología para que a través de aplicaciones móviles de Walkee Technologies o páginas 
+web (cada una, "Aplicación") puedan organizar y planear servicios de transporte, servicios 
+de logística, compra y entrega de bienes con Terceros Proveedores incluidos, sin 
+limitación, comercios, tiendas mayoristas y minoristas, restaurantes, y terceros 
+contratistas independientes ("Terceros Proveedores"), según se encuentren disponibles en 
+el territorio donde Usted se encuentra, conforme a un acuerdo con Walkee Technologies. 
+Los Servicios se ponen a disposición solo para su uso personal, no comercial.
+Reconoce que Walkee Technologies no presta servicios de transporte o de logística, de 
+compra y entrega de bienes o funciona como una empresa de transportes y que los 
+Terceros Proveedores no son empleados de Walkee Technologies.
+A su vez, y para efectos de que tenga una mejor experiencia con el uso de los Servicios, 
+Usted solicita a Walkee Technologies que busque a un Tercero Proveedor que esté 
+disponible de prestarle sus servicios en circunstancias de mayor eficiencia en caso de que 
+el Tercero Proveedor originalmente asignado a través de esta no esté avanzando al 
+destino con la finalidad de prestar servicios de transporte, de logística, de compra y 
+entrega de bienes.
+Reconoce que los Terceros Proveedores que presten servicios de transporte solicitados a 
+través de la Aplicación podrán ofrecer servicios de coche compartido o entre pares (peer-
+to-peer).
+Licencia.
+Sujeto al cumplimiento de estas Condiciones, Walkee Technologies le otorga una licencia 
+limitada, no exclusiva, no sublicenciable, revocable, no transferible para:acceder y hacer 
+uso de la Aplicación en su dispositivo personal solo en relación con los Servicios; y 
+acceder y hacer uso de cualquier contenido, información y material relacionado que pueda 
+ponerse a disposición a través de los Servicios, en cada caso solo para su uso personal, 
+no comercial.
+Walkee Technologies y sus licenciantes se reservan cualquier derecho que no haya sido 
+expresamente otorgado por el presente.
+Restricciones.
+Usted no podrá:retirar cualquier nota de derechos de autor, marca registrada u otra nota 
+de propiedad de cualquier parte de los Servicios;
+reproducir, modificar, preparar obras derivadas sobre los Servicios, distribuir, licenciar, 
+arrendar, revender, transferir, exhibir públicamente, presentar públicamente, transmitir, 
+retransmitir o explotar de otra forma los Servicios, excepto como se permita expresamente 
+por Walkee Technologies; descompilar, realizar ingeniería inversa o desmontar los 
+Servicios, excepto como se permita por la ley aplicable; enlazar, reflejar o enmarcar 
+cualquier parte de los Servicios; causar o lanzar cualquier programa o script con el objeto 
+de extraer, indexar, analizar o de otro modo realizar prospección de datos de cualquier 
+parte de los Servicios o sobrecargar o bloquear indebidamente la operación y/o 
+funcionalidad de cualquier aspecto de los Servicios;
+llevar a cabo ingeniería inversa, causar o lanzar cualquier programa o script o, inclusive, 
+acceder a los Servicios con el fin de generar o idear un producto similar o Servicio 
+directamente competitivo a los ofrecidos por Walkee Technologies; o intentar obtener un 
+acceso no autorizado o dañar cualquier aspecto de los Servicios o sus sistemas o redes 
+relacionados.
+Prestación de los Servicios.
+Los Servicios y/u otras opciones disponibles podrán ponerse a disposición bajo varias 
+marcas u opciones de pedidos a través de las aplicaciones móviles de Walkee 
+Technologies o páginas web por o en relación con: ciertas subsidiarias o afiliados de 
+Walkee Technologies de resultar aplicable; o Terceros Proveedores independientes, 
+incluidos conductores de empresas de red de transportes, titulares del permiso de carta 
+de transporte o titulares de permisos, autorizaciones o licencias de transporte similares.
+Servicios y contenido de terceros.
+Los Servicios podrán ponerse a disposición o ser accesibles a través de servicios y 
+contenido de terceros (incluida la publicidad) que Walkee Technologies no provee ni 
+controla. Reconoce que podrán ser aplicables diferentes condiciones y políticas de 
+privacidad al uso que haga de dichos servicios y contenido de terceros. Walkee 
+Technologies no respalda dichos servicios y contenido de terceros y en ningún caso 
+Walkee Technologies será responsable de cualquier producto o servicio de dichos 
+terceros. Adicionalmente, Apple Inc., Google, Inc., Microsoft Corporation o BlackBerry 
+Limited, y otros terceros que ofrezcan productos o servicios similares y/o sus 
+correspondientes subsidiarias o afiliados internacionales serán terceros beneficiarios en 
+este contrato (el "Contrato") si Usted accede a los Servicios utilizando Aplicaciones 
+desarrolladas para dispositivos móviles con sistema iOS, Android, Microsoft Windows, 
+respectivamente.Estos terceros beneficiarios no son parte de este Contrato y no son 
+responsables de la prestación o apoyo de los Servicios de ninguna manera. Su acceso a 
+los Servicios utilizando estos dispositivos se sujeta a las condiciones establecidas en las 
+condiciones de servicio de terceros beneficiarios aplicables.
+
+Titularidad.
+Los Servicios y todos los derechos relativos a estos son propiedad de Walkee 
+Technologies o de sus licenciantes. Ninguna de estas Condiciones ni el uso de los 
+Servicios le transfieren u otorgan ningún derecho: sobre o en relación con los Servicios, 
+excepto en cuanto a la licencia limitada otorgada anteriormente; o bien a utilizar o 
+mencionar en cualquier modo a los nombres de empresa, logotipos, nombres de producto 
+y servicio, marcas comerciales o marcas de servicio de Walkee Technologies o de sus 
+licenciantes.
+3. Su uso de los Servicios
+Cuentas de usuario y datos personales.
+Con el fin de usar la mayor parte de los aspectos de los Servicios, Usted debe registrarse 
+y mantener activa una cuenta personal de usuario de los Servicios ("Cuenta").Usted solo 
+puede poseer una Cuenta. Salvo mediante los mecanismos y en los casos que 
+expresamente se informe lo contrario, para obtener una Cuenta debe tener como mínimo 
+18 años o tener la mayoría de edad legal en su jurisdicción. 
+El registro de la Cuenta requiere que comparta a Walkee Technologies determinados 
+datos personales. Usted es responsable de toda la actividad que ocurre en su Cuenta y se 
+compromete a mantener la información en su Cuenta de forma exacta, completa, 
+actualizada, y segura. No acerlo, podrá resultar en su imposibilidad para acceder y utilizar 
+los Servicios y en la resolución por parte de Walkee Technologies de estas Condiciones.
+La recopilación y el tratamiento que hacemos de los datos personales en relación con los 
+Servicios es conforme se dispone en el Aviso de Privacidad de Walkee Technologies, 
+disponible en
+Requisitos y conducta del usuario.
+Salvo mediante los mecanismos y en los casos que expresamente se informe lo contrario, 
+Usted no podrá autorizar a terceros a utilizar su Cuenta.
+No podrá permitir que personas menores de 18 años reciban servicios de transporte o 
+logísticos de Terceros Proveedores, a menos que aquellos sean acompañados por Usted 
+o bien, que reciban autorización expresa de parte de Usted para utilizar los Servicios, 
+siempre y cuando esta opción esté habilitada en su territorio.
+No podrá ceder o transferir de otro modo su Cuenta a otra persona o entidad.
+Al acceder y utilizar los Servicios, Usted se compromete a actuar siempre y en todo 
+momento de buena fe y de manera razonable (p. ej., no hacer uso inapropiado de los 
+Servicios cuando se percate de un error manifiesto), acuerda cumplir con todas las leyes 
+aplicables y solo podrá utilizar los Servicios con fines legítimos (p. ej., no para el 
+transporte de materiales ilegales o peligrosos).
+En el uso de los Servicios, no causará estorbos, molestias, incomodidades o daños a la 
+propiedad, tanto al Tercero Proveedor como a cualquier otra parte.
+Se le podrá requerir que facilite un documento de identidad u otro elemento de verificación 
+de identidad para el acceso o uso de los Servicios, y Usted acepta que se le podrá 
+denegar el acceso o uso de los Servicios o la entrega de ciertos productos si se niega a 
+facilitar el documento de identidad o el elemento de verificación de identidad o no se 
+encuentra presente al momento de la entrega de estos. En caso de que no sea posible 
+realizar la entrega de los productos, los mismos serán devueltos al Tercero Proveedor, lo 
+cual podrá generar un cargo adicional que deberá ser asumido por Usted.
+
+Mensajes de texto.
+Al crear una Cuenta, Usted acepta que Walkee Technologies le pueda enviar mensajes de 
+texto directamente o a través de aplicaciones autorizadas de mensajería de terceros 
+acerca de los Servicios, como parte de la actividad comercial normal por el uso de los 
+Servicios.
+Usted podrá solicitar la no recepción de mensajes de texto/datos informativos o aquellos 
+enviados a través de aplicaciones autorizadas de mensajería de terceros de manera 
+oficial por Walkee Technologies en cualquier momento en la siguiente dirección t.Walkee 
+Technologies.com/suscripcion indicando que no desea recibir más dichos mensajes, junto 
+con el número de teléfono del dispositivo móvil que recibe los mensajes. Usted reconoce 
+que solicitar la no recepción de mensajes de texto o aquellos enviados a través de 
+aplicaciones autorizadas de mensajería de terceros, podrá afectar al uso que Usted haga 
+de los Servicios.
+Códigos promocionales.
+Walkee Technologies podrá, a su entera discreción, crear códigos promocionales, con 
+sujeción a las condiciones adicionales que Walkee Technologies establezca sobre la base 
+de cada código promocional ("Códigos Promocionales").
+Usted acuerda que los Códigos Promocionales: deben usarse para la audiencia y el 
+propósito deseado y de manera lícita; no podrán duplicarse, venderse o transferirse de 
+ninguna manera, o ponerse a disposición del público general (tanto si se publican en un 
+foro público como de otra forma), a menos que sea con la autorización expresa de Walkee 
+Technologies; podrán ser invalidados por Walkee Technologies en cualquier momento por 
+cualquier motivo sin responsabilidad para Walkee Technologies; podrán usarse solo 
+conforme a las condiciones específicas que Walkee Technologies establezca para dicho 
+Código Promocional; no serán redimibles por dinero en efectivo; y podrán caducar antes 
+de que Usted los utilice.
+Walkee Technologies se reserva el derecho de descontar los créditos u otros elementos o 
+beneficios obtenidos a través de la utilización de los Códigos Promocionales por Usted o 
+cualquier otro usuario en el caso de que Walkee Technologies determine o crea que el uso 
+o el canje de los Códigos Promocionales fue de modo fraudulento, ilegal o infringiendo las 
+condiciones del Código Promocional o las presentes Condiciones.
+Acceso a la red y dispositivos.
+Usted es responsable de obtener el acceso a la red de datos necesario para utilizar los 
+Servicios. Terceros distintos a Walkee Technologies podrán aplicar las tarifas y tasas de 
+datos y mensajes de su red móvil si Usted accede o utiliza los Servicios desde un 
+dispositivo inalámbrico y Usted será responsable de dichas tarifas y tasas. Usted es 
+responsable de adquirir y actualizar el hardware compatible o los dispositivos necesarios 
+para acceder y utilizar los Servicios y la Aplicación. Walkee Technologies no garantiza que 
+los Servicios, o cualquier parte de estos, funcionen en cualquier hardware o dispositivo 
+particular.
+4. Pago
+Usted entiende que el uso de los Servicios puede derivar en cargos por los servicios o 
+bienes que reciba de un Tercero Proveedor, terceros independientes o, de corresponder, 
+otros cargos que apliquen por los servicios de intermediación u otros que reciba de 
+Walkee Technologies en su jurisdicción o desde el extranjero ("Cargos"). Los Cargos 
+pueden incluir otras cuotas, peajes y/o recargos aplicables, incluyendo: cuotas por 
+solicitud, cuotas o cargos municipales, estatales o nacionales/federales, cargos por 
+demoras, por devoluciones de productos, recargos aeroportuarios, y/o tarifas de 
+procesamiento por pagos fraccionados, entre otros que sean aplicables, los cuales serán 
+comunicados a Usted.Para evitar cualquier duda:
+Walkee Technologies no realiza ningún cobro por acceder a la Aplicación, pero puede 
+actuar como recolector de cualquier otro monto que resulte de los servicios de Terceros 
+Proveedores, los que no forman parte del Cargo.
+Terceros Proveedores
+Los Cargos que se le muestran al solicitar y/o comprar bienes o servicios a través de los 
+Servicios pueden incluir los precios de venta al público cobrados por Terceros 
+Proveedores y los montos pagados o adeudados a Walkee Technologies, entre otros.En 
+caso de realizarse Cargos por cuenta del Tercero Proveedor, será el Tercero Proveedor 
+quien, individual y separadamente, le trasladará y cobrará los impuestos aplicables en su 
+jurisdicción o en el extranjero y que apliquen conforme a la ley. Después que haya 
+recibido los servicios u obtenido los bienes anteriormente referidos mediante el uso de los 
+Servicios, Walkee Technologies, cuando actúe como agente de cobro limitado, facilitará el 
+pago de los Cargos e impuestos aplicables en nombre del Tercero Proveedor o de Walkee 
+Technologies en su jurisdicción o en el extranjero, según corresponda. El pago de los 
+Cargos e impuestos (cuando resulten aplicables) de dicha manera se considerará como el 
+pago efectuado directamente por Usted al Tercero Proveedor o a Walkee Technologies en 
+su jurisdicción o en el extranjero, según corresponda. La preparación, emisión y entrega 
+de facturas, boletas, recibos, comprobantes fiscales y cualquier otro tipo de 
+documentación tributaria relacionada con los Servicios o con los servicios recibidos o 
+bienes obtenidos mediante el uso de los mismos, será responsabilidad exclusiva de los 
+Terceros Proveedores, o en caso de que resulte aplicable, terceros independientes o 
+Walkee Technologies, según lo que determine la ley. Esto no obsta a que Walkee 
+Technologies en su calidad de agente de cobro limitado pueda asistir en el proceso de 
+facturación según lo haya acordado con cada Tercero Proveedor o tercero independiente, 
+y pueda proporcionarle a Usted acceso al documento tributario que sea emitido, según lo 
+determinen las disposiciones fiscales vigentes, sin que ello implique ningún tipo de 
+responsabilidad para Walkee Technologies respecto de las obligaciones fiscales del 
+Tercero Proveedor. Usted se compromete a facilitar a Walkee Technologies o al Tercero 
+Proveedor, según resulte aplicable toda la información fiscal pertinente para efectos de la 
+emisión de los documentos tributarios que resulten aplicables en el país, y reconoce que, 
+en caso que la ley aplicable así lo establezca, los documentos tributarios podrán incluir 
+información específica sobre Usted, incluido su nombre o número de identificación fiscal y 
+su dirección.
+Se considerará que los Cargos pagados por Usted a un Tercero Proveedor de bienes o 
+servicios se producen en el momento en que Usted realiza el pago directamente a un 
+Tercero Proveedor o a través de Walkee Technologies en su jurisdicción o en el 
+extranjero, según corresponda. Los Cargos pagados por Usted son definitivos y por regla 
+general no reembolsables, a menos que Walkee Technologies o la regulación aplicable 
+determine lo contrario. Esta estructura de pago tiene por objeto compensar plenamente al 
+Tercero Proveedor, en su caso, por los servicios o bienes obtenidos por Usted en relación 
+con su uso de los Servicios.
+Usted conserva el derecho de convenir otros Cargos con un Tercero Proveedor para los 
+servicios o bienes recibidos por Usted de dicho Tercero Proveedor en el momento en que 
+reciba dichos servicios o bienes. Walkee Technologies podrá revisar, las solicitudes que 
+Usted y/o un Tercero Proveedor realicen para modificar los Cargos por un servicio o bien 
+en particular, cuando sean presentadas a través de la Aplicación.
+
+Después de realizado el Cargo, Walkee Technologies pondrá a su disposición un recibo 
+(sin valor fiscal), el cual podrá ser consultado en su Aplicación o en su correo electrónico o 
+por otro medio a discreción de Walkee Technologies.
+
+Precio y Reemplazo de Productos
+Para los servicios de compra de bienes, Usted entiende que los Terceros Proveedores son 
+quienes determinan de manera discrecional e independiente los precios de los bienes que 
+se muestran a través de los Servicios. Por lo anterior, es posible que los mismos puedan 
+diferir de los precios ofrecidos o publicados por el Tercero Proveedor en una ubicación 
+física operada por un Tercero Proveedor, y/o de los precios disponibles en otros sitios web 
+de terceros/aplicaciones móviles.
+Usted pagará el precio que se muestra a través de los Servicios. Igualmente, los precios 
+de los productos o artículos pueden variar en función de si decide recoger su pedido o 
+pedir que se lo entreguen, de diferencias en la cantidad, el peso o el tipo de producto, o 
+en caso de que los productos o artículos de menú deban ser reemplazados por otro 
+producto o artículo de menú ("Producto de Reemplazo").En este último supuesto, Usted 
+podrá solicitar el reembolso del pedido, elegir entre los Productos de Reemplazo 
+sugeridos por el Tercero Proveedor, o, en caso de no pronunciarse respecto de las dos 
+opciones anteriores, el socio de entrega podrá seleccionar el Producto de Reemplazo que 
+más se ajuste al producto seleccionado por Usted a través de los Servicios, cuyo precio 
+podrá ser menor o mayor al producto seleccionado ("Mejor Reemplazo"). Usted podrá 
+deshabilitar la opción de Mejor Reemplazo, en cualquier momento, dentro de los ajustes 
+de preferencia de los Servicios. En caso de que desee cancelar la solicitud de Servicios, 
+deberá sujetarse a lo dispuesto en sección "Modificación de Cargos".
+
+Modificación de Cargos
+Podrá establecer, eliminar y/o revisar los Cargos para alguno o todos los servicios o 
+bienes obtenidos a través del uso de los Servicios. Además, Usted reconoce y acepta 
+pagar los Cargos aplicables, los cuales en determinadas zonas geográficas podrán 
+incrementar sustancialmente durante los periodos de alta demanda. Usará los esfuerzos 
+razonables para informarle de los Cargos que podrán aplicarse. Podrá, cuando lo 
+considere oportuno, proporcionar a determinados usuarios ofertas promocionales y 
+descuentos que pueden resultar en el cobro de diferentes importes por estos o similares 
+servicios o bienes obtenidos a través del uso de los Servicios. Dichas ofertas 
+promocionales y descuentos le serán comunicadas a Usted directamente y no serán 
+extensivas a aquellos usuarios que no hubiesen recibido una comunicación por parte de 
+Walkee Technologies. Por regla general, no designa ninguna parte del Cargo que le 
+corresponde como propina o gratificación al Tercero Proveedor. Cualquier manifestación 
+por parte de Walkee Technologies (en la página web de Walkee Technologies o en los 
+materiales de marketing de Walkee Technologies) en el sentido de que dar una propina es 
+"voluntario", "no requerido", y/o "incluido" en los pagos que realiza para los servicios o 
+bienes proporcionados no pretende sugerir que Walkee Technologies proporciona 
+importes adicionales, aparte de los descritos anteriormente, al Tercero Proveedor.
+
+Usted podrá optar por cancelar su solicitud para los servicios o bienes de un Tercero 
+Proveedor en cualquier momento antes de la llegada de ese Tercero Proveedor, en cuyo 
+caso se le podrá cobrar una tasa de cancelación.Usted entiende y acepta que, mientras 
+es libre de proporcionar un pago adicional como gratificación a cualquier Tercero 
+Proveedor que le proporcione servicios o bienes obtenidos mediante los Servicios, no 
+tiene obligación de ello. Las gratificaciones son voluntarias. Después de que haya recibido 
+los bienes o servicios obtenidos a través del Servicio, tendrá la oportunidad de calificar su 
+experiencia y dejar comentarios adicionales sobre el Tercero Proveedor.
+Tarifa de reparación, limpieza o cargos por objetos olvidados.
+Usted será responsable del costo de la reparación por daños o de la limpieza necesaria 
+de los vehículos y las propiedades del Tercero Proveedor, que se ocasionen por el uso de 
+los Servicios en su Cuenta que sobrepasen los daños considerados normales por "el 
+desgaste" y la limpieza general necesaria ("Reparación o Limpieza").
+En el caso de que un Tercero Proveedor informe de la necesidad de reparación o 
+limpieza, y dicha reparación o limpieza se verifique por Walkee Technologies a su 
+razonable discreción, Walkee Technologies se reserva el derecho de facilitar el pago por 
+el costo razonable de dicha reparación o limpieza en nombre del Tercero Proveedor 
+utilizando su método de pago indicado en su Cuenta. Dichos importes, así como aquellos 
+cargos por la devolución de objetos olvidados se transferirán por Walkee Technologies al 
+correspondiente Tercero Proveedor y no son reembolsables. Los valores correspondientes 
+a los cargos que se realicen a Usted, por limpieza o devolución de objetos olvidados, 
+podrán ser actualizados en todo momento a discreción de Walkee Technologies.Usted 
+reconoce y acepta que Usted será el único responsable en todo momento, mientras utiliza 
+los Servicios, del cuidado y resguardo de sus objetos personales o de algún tercero 
+respecto por el cual Usted sea responsable.
+
+Métodos de Pago
+El registro de la Cuenta requiere que Usted registre en Walkee Technologies por lo menos 
+un método de pago válido. Si selecciona "Efectivo" como método de pago,
+En caso de que no cuente con suficiente monto de "Efectivo" disponible para completar el 
+pago de los Cargos,es posible que deba proporcionar un método de pago secundario. se 
+le cobrará el saldo restante a su método de pago secundario. Si se determina que el 
+método de pago de su Cuenta principal ha caducado, es inválido, insuficiente o de otro 
+modo no sirve para cobrarle, Si el método de pago seleccionado por Usted fuera 
+declinado por cualquier motivo, Usted acepta que Walkee Technologies, como agente de 
+cobro limitado del Tercero Proveedor, utilice un método de pago secundario en su Cuenta, 
+si estuviera disponible, o realice el cobro del monto adeudado la siguiente ocasión en que 
+Usted haga uso de los Servicios.
+
+Walkee Technologies podrá contactar o notificar a Usted a través de los medios 
+disponibles en la Aplicación para indicar a Usted que es necesario señalar un nuevo 
+método de pago.
+
+El cobro de los Cargos derivados del uso de los Servicios, puede requerir verificación de 
+su método de pago registrado de conformidad con el siguiente enlace:
+5. Renuncias; Limitación de responsabilidad; Indemnidad.
+RENUNCIA.
+Los Servicios se proporcionan "tal cual" y "como disponibles".Renuncia a toda declaración 
+y garantía, expresa, implícita o estatutaria, no expresamente establecida en estas 
+condiciones, incluidas las garantías implícitas de comerciabilidad, idoneidad para un fin 
+particular. No hace declaración ni presta garantía alguna relativa a la fiabilidad, 
+puntualidad, calidad, idoneidad o disponibilidad de los Servicios o cualquiera de los 
+servicios o bienes solicitados a través del uso de los Servicios, o que los Servicios no 
+serán interrumpidos o estarán libres de errores. No garantiza la calidad, idoneidad, 
+seguridad o habilidad de los Terceros Proveedores. Acuerda que todo riesgo derivado de 
+su uso de los Servicios y cualquier servicio o bien solicitado en relación con aquellos será 
+únicamente suyo, en la máxima medida permitida por la ley aplicable. Reconoce y 
+conviene que en ningún caso Walkee Technologies será responsable de las obligaciones 
+que le corresponden a Usted o a Terceros Proveedores al amparo de la legislación fiscal 
+aplicable.
+
+LIMITACIÓN DE RESPONSABILIDAD.
+Siempre que la ley aplicable en su jurisdicción no disponga lo contrario, Walkee 
+Technologies no será responsable de daños indirectos, incidentales, especiales, 
+ejemplares, punitivos o emergentes, incluidos el lucro cesante, la pérdida de datos, la 
+lesión personal o el daño a la propiedad, ni de perjuicios relativos, o en relación con, o de 
+otro modo derivados de cualquier uso de los Servicios, incluso aunque Walkee 
+Technologies haya sido advertido de la posibilidad de dichos daños.
+Walkee Technologies no será responsable de cualquier daño, responsabilidad o pérdida 
+que deriven de:su uso o dependencia de los Servicios o su incapacidad para acceder o 
+utilizar los Servicios; o cualquier transacción o relación entre Usted y cualquier Tercero 
+Proveedor, aunque Walkee Technologies hubiera sido advertido de la posibilidad de 
+dichos daños. Walkee Technologies no será responsable del retraso o de la falta de 
+ejecución resultante de causas que vayan más allá del control razonable de Walkee 
+Technologies. Usted podrá utilizar los Servicios de Walkee Technologies para solicitar y 
+planificar servicios de transporte, servicios de logística, compra y entrega de bienes con 
+Terceros Proveedores, pero acepta que Walkee Technologies no tiene responsabilidad 
+alguna hacia Usted en relación con cualquier servicios de transporte, servicios de 
+logística, compra y entrega de bienes prestado a Usted por Terceros Proveedores que no 
+sea como se ha establecido expresamente en estas condiciones.
+
+Indemnidad.
+Usted acuerda mantener indemnes y responder frente a Walkee Technologies y sus 
+consejeros, directores, empleados y agentes por cualquier reclamación, demanda, 
+pérdida, responsabilidad y gasto (incluidos los honorarios de abogados) que deriven de: 
+su uso de los servicios o bienes obtenidos a través del uso de los Servicios; su 
+incumplimiento o violación de cualquiera de estas Condiciones; el uso por parte de 
+Walkee Technologies de su Contenido de usuario; o su infracción de los derechos de 
+cualquier tercero, incluidos Terceros Proveedores.
+
+6. Legislación aplicable; Arbitraje.
+Salvo que las normas de órden público en su jurisdicción establezcan lo contrario, las 
+presentes Condiciones se regirán e interpretarán exclusivamente en virtud de la 
+legislación de los Países Bajos, con exclusión de sus normas sobre conflicto de leyes.
+La Convención de Viena sobre los Contratos de Compraventa Internacional de 
+Mercaderías de 1980 (CISG) no se aplicará. Cualquier disputa, conflicto, reclamación o 
+controversia, del tipo que sea, que resulte de las presentes Condiciones o que se 
+relacione en gran parte con ellas, incluyendo las relativas a su validez, interpretación y 
+exigibilidad (cualquier "Disputa"), deberán someterse forzosamente a procedimientos de 
+mediación en virtud del Reglamento de Mediación de la Cámara de Comercio 
+Internacional ("Reglamento de Mediación de la CCI").
+Si dicha disputa no fuese solucionada en un plazo de sesenta (60) días desde la fecha en 
+la que se formalice la solicitud de mediación en virtud del Reglamento de Mediación de la 
+CCI, se hará referencia a dicha disputa y se solucionará exclusiva y definitivamente 
+mediante arbitraje en virtud del Reglamento de Arbitraje de la Cámara de Comercio 
+Internacional ("Reglamento de Arbitraje de la CCI"). Las disposiciones sobre Proceso 
+Expedito y del Árbitro de Emergencia del Reglamento de la CCI no se aplicarán.
+La disputa será resuelta por un (1) árbitro nombrado a tal fin en virtud del Reglamento de 
+la CCI. El lugar tanto para la mediación como para el arbitraje será Ámsterdam, Países 
+Bajos, sin perjuicio de cualquier derecho que usted pudiera tener según el artículo 18 del 
+Reglamento Brussels I bis (OJ EU 2012 L351/1) y/o el artículo 6:236n del Código Civil 
+holandés. El idioma de mediación y/o arbitraje será el inglés, a no ser que Usted no hable 
+inglés, en cuyo caso la mediación y/o el arbitraje se llevarán a cabo en su idioma materno.
+La existencia y el contenido de los procedimientos de mediación y arbitraje, incluidos los 
+documentos e informes presentados por las partes, la correspondencia de la CCI, la 
+correspondencia del mediador y la correspondencia, los pedidos y los laudos emitidos por 
+el único árbitro deberán permanecer en estricta confidencialidad y no deberán ser 
+revelados a ningún tercero sin el consentimiento expreso por escrito de la otra parte, a 
+menos que:la revelación al tercero sea razonablemente necesaria para llevar a cabo el 
+procedimiento de mediación o arbitraje; y el tercero acepte incondicionalmente por escrito 
+estar sujeto a la obligación de confidencialidad estipulada en el presente documento.
+
+7. Otras disposiciones
+
+
+Notificaciones.
+Walkee Technologies lo podrá notificar a Usted por medio de una notificación general en 
+la Aplicación, mediante un correo electrónico enviado a su dirección electrónica en su 
+Cuenta o por comunicación escrita enviada a su dirección, según lo dispuesto en su 
+Cuenta. Usted podrá notificar a Walkee Technologies por comunicación escrita a la 
+dirección de Walkee Technologies en Burgerweeshuispad 301, 1076 HR, Ámsterdam, 
+Países Bajos,
+Disposiciones generales.
+Usted no podrá ceder ni transferir estas Condiciones, en todo o en parte, sin el 
+consentimiento previo por escrito de Walkee Technologies. Usted da su aprobación a 
+Walkee Technologies para ceder o transferir estas Condiciones, en todo o en parte, 
+incluido a: una subsidiaria o afiliada; un adquirente del capital, del negocio o de los activos 
+de Walkee Technologies; o un sucesor por fusión. No existe entre Usted, Walkee 
+Technologies o cualquier Tercer Proveedor una empresa conjunta o relación de socios, 
+empleo o agencia como resultado del Contrato entre Usted y Walkee Technologies o del 
+uso de los Servicios. En caso de un incumplimiento a las presentes Condiciones y/o a las 
+Guías Comunitarias por parte de Usted, Walkee Technologies podrá denegar el acceso a 
+su cuenta y/o a los Servicios. Asimismo, se reserva el derecho y todas aquellas acciones 
+legales que le correspondan para investigar y perseguir a todos aquellos usuarios que 
+incumplan las obligaciones establecidas en estas Condiciones mediante los recursos 
+legales disponibles bajo la legislación aplicable. Si cualquier disposición de estas 
+Condiciones se considerara ilegal, nula o inexigible, ya sea en su totalidad o en parte, de 
+conformidad con cualquier legislación, dicha disposición o parte de esta se considerará 
+que no forma parte de estas Condiciones. La legalidad, validez y exigibilidad del resto de 
+las disposiciones de estas Condiciones no se verá afectada. En ese caso, las partes 
+deberán reemplazar dicha disposición ilegal, nula o inexigible, en todo o en parte por una 
+disposición legal, válida y exigible que tenga, en la medida de lo posible, un efecto similar 
+al que tenía la disposición ilegal, nula o inexigible, dados los contenidos y el propósito de 
+estas Condiciones. Estas Condiciones constituyen el Contrato íntegro y el entendimiento 
+entre las partes en relación con el objeto y sustituye y reemplaza a todos los contratos o 
+acuerdos anteriores o contemporáneos en relación con dicho objeto. En estas 
+Condiciones, las palabras "incluido/a/os/as" e "incluye/n" significan "incluido, de forma 
+meramente enunciativa". Walkee Technologies se reserva el derecho a compartir 
+cualquier información relacionada con las presentes Condiciones a cualquier Autoridad 
+competente que se lo requiera o que Walkee Technologies considere pertinente.Contenido 
+Generado por el Usuario. Walkee Technologies podrá, a su sola discreción, permitirle que 
+envíe, cargue, publique o de otro modo ponga a disposición de Walkee Technologies a 
+través de los Servicios contenido e información de texto, audio y/o visual, incluidos 
+comentarios y opiniones relativos a los Servicios, iniciación de peticiones de apoyo, así 
+como presentación de admisiones para competiciones y promociones ("Contenido 
+Generado por el Usuario"). 

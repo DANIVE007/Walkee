@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".EvaluacionDueno"
+    android:background="@drawable/fondo2">
+
+    <RatingBar
+        android:id="@+id/ratingBar"
+        android:layout_width="256dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="74dp"
+        android:layout_marginTop="268dp"
+        android:layout_marginEnd="81dp"
+        android:layout_marginBottom="624dp"
+        android:numStars="5"
+        android:progressTint="@color/brown"
+        android:rating="0"
+        android:stepSize="1.0" />
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/editTextComments"
+        android:layout_width="wrap_content"
+        android:layout_height="164dp"
+        android:layout_below="@id/ratingBar"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="9dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="333dp"
+        android:layout_marginEnd="13dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="234dp"
+        android:background="@color/white"
+        android:hint="   Evalúa al dueño y comenta tu experiencia"
+        android:padding="10dp" />
+
+    <Button
+        android:id="@+id/buttonSend"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="74dp"
+        android:layout_marginBottom="82dp"
+        android:backgroundTint="@color/green"
+        android:text="Enviar" />
+
+    <Button
+        android:id="@+id/buttonBack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="109dp"
+        android:layout_marginBottom="83dp"
+        android:backgroundTint="@color/green"
+        android:text="Volver" />
+
+    <ImageView
+        android:id="@+id/imageView9"
+        android:layout_width="235dp"
+        android:layout_height="196dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="168dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="484dp"
+        app:srcCompat="@drawable/dueno" />
+
+    <ImageView
+        android:id="@+id/imageView12"
+        android:layout_width="138dp"
+        android:layout_height="157dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="67dp"
+        android:layout_marginEnd="249dp"
+        android:layout_marginBottom="507dp"
+        app:srcCompat="@drawable/logowalkee" />
+
+    <ImageView
+        android:id="@+id/imageView13"
+        android:layout_width="221dp"
+        android:layout_height="87dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="111dp"
+        android:layout_marginEnd="78dp"
+        android:layout_marginBottom="130dp"
+        app:srcCompat="@drawable/sloganwalkee" />
+</RelativeLayout>

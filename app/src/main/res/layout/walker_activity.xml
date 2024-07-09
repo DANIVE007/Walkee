@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo1"
+    android:visibility="visible"
+    tools:visibility="visible">
+
+    <TextView
+        android:id="@+id/textViewTitle"
+        android:layout_width="351dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="244dp"
+        android:layout_marginEnd="23dp"
+        android:text="Menú Principal"
+        android:textColor="@color/green"
+        android:textSize="45sp"
+        android:textStyle="bold" />
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="299dp"
+        android:layout_below="@id/textViewTitle"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="33dp"
+        android:layout_marginEnd="28dp"
+        android:layout_marginBottom="95dp"
+        android:alignmentMode="alignMargins"
+        android:columnCount="2"
+        android:columnOrderPreserved="false"
+        android:rowCount="3">
+
+        <Button
+            android:id="@+id/buttonWallet"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_margin="8dp"
+            android:backgroundTint="@color/green"
+            android:text="Ver mi Wallet" />
+
+        <Button
+            android:id="@+id/buttonRideRequests"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_margin="8dp"
+            android:backgroundTint="@color/green"
+            android:text="Solicitud de Paseos" />
+
+        <Button
+            android:id="@+id/buttonMessaging"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_margin="8dp"
+            android:backgroundTint="@color/green"
+            android:text="Mensajería" />
+
+        <Button
+            android:id="@+id/buttonTerms"
+            android:layout_width="3dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_margin="8dp"
+            android:backgroundTint="@color/green"
+            android:text="Términos y Condiciones" />
+
+        <Button
+            android:id="@+id/buttonTutorials"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_margin="8dp"
+            android:backgroundTint="@color/green"
+            android:text="Tutoriales" />
+
+        <Button
+            android:id="@+id/buttonTutorials2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_margin="8dp"
+            android:backgroundTint="@color/green"
+            android:text="Mi Perfil" />
+
+        <Button
+            android:id="@+id/buttonTutorials3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_margin="8dp"
+            android:backgroundTint="@color/green"
+            android:text="Paseos en Curso" />
+
+        <Button
+            android:id="@+id/buttonLogout"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_margin="8dp"
+            android:backgroundTint="@color/green"
+            android:text="Cerrar Sesión" />
+
+    </GridLayout>
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="110dp"
+        android:layout_height="123dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="33dp"
+        android:layout_marginTop="64dp"
+        android:layout_marginEnd="268dp"
+        android:layout_marginBottom="46dp"
+        app:srcCompat="@drawable/logowalkee" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="149dp"
+        android:layout_height="72dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="649dp"
+        android:layout_marginEnd="25dp"
+        android:layout_marginBottom="10dp"
+        app:srcCompat="@drawable/sloganwalkee" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="214dp"
+        android:layout_height="266dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="207dp"
+        android:layout_marginEnd="-9dp"
+        android:layout_marginBottom="561dp"
+        app:srcCompat="@drawable/paseador" />
+
+    <RatingBar
+        android:id="@+id/ratingBar"
+        style="@style/Widget.AppCompat.RatingBar.Indicator"
+        android:layout_width="196dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="26dp"
+        android:layout_marginTop="201dp"
+        android:layout_marginEnd="189dp"
+        android:layout_marginBottom="486dp"
+        android:numStars="5"
+        android:progressTint="#FF5722"
+        android:rating="5"
+        android:stepSize="1.0" />
+
+</RelativeLayout>
